@@ -1,0 +1,3 @@
+Procesors_number: 3
+Jobs_number: 1
+Job: 1 2

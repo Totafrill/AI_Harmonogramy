@@ -1,0 +1,30 @@
+Procesors_number: 4
+Jobs_number: 28
+Job: 0 211
+Job: 1 115 3
+Job: 2 101 1
+Job: 3 322 0
+Job: 4 135 2
+Job: 5 18 4
+Job: 6 112 0 3
+Job: 7 228 2 5
+Job: 8 22 1 3
+Job: 9 137 0
+Job: 10 341 5 8 9
+Job: 11 19 2 4
+Job: 12 124
+Job: 13 26 9
+Job: 14 121 5
+Job: 15 29 3 4
+Job: 16 113 1 2
+Job: 17 27 0 3
+Job: 18 510 2 4
+Job: 19 16 1
+Job: 20 647 11
+Job: 21 37 5
+Job: 22 490 5 12
+Job: 23 48
+Job: 24 256 2 4
+Job: 25 327 2 4
+Job: 26 125 0
+Job: 27 69 0

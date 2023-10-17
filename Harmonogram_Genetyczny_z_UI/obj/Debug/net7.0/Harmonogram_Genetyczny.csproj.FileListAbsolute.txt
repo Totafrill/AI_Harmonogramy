@@ -1,0 +1,17 @@
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.csproj.AssemblyReference.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.AssemblyInfoInputs.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.AssemblyInfo.cs
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.csproj.CoreCompileInputs.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\bin\Debug\net7.0\Harmonogram_Genetyczny.exe
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\bin\Debug\net7.0\Harmonogram_Genetyczny.deps.json
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\bin\Debug\net7.0\Harmonogram_Genetyczny.runtimeconfig.json
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\bin\Debug\net7.0\Harmonogram_Genetyczny.dll
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\bin\Debug\net7.0\Harmonogram_Genetyczny.pdb
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\bin\Debug\net7.0\GAF.Core.20.dll
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.csproj.CopyComplete
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.dll
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\refint\Harmonogram_Genetyczny.dll
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.pdb
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\Harmonogram_Genetyczny.genruntimeconfig.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Genetyczny\obj\Debug\net7.0\ref\Harmonogram_Genetyczny.dll

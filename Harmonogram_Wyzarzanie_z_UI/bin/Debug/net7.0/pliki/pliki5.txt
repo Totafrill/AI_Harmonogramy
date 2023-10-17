@@ -1,0 +1,6 @@
+Procesors_number: 2
+Jobs_number: 4
+Job: 0 1 1
+Job: 1 2
+Job: 2 4 0
+Job: 3 4 1

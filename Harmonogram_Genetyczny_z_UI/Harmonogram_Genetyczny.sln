@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmonogram_Genetyczny", "Harmonogram_Genetyczny.csproj", "{97C9D25E-CAF1-4E62-A84B-DA8BC304FFBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C9D25E-CAF1-4E62-A84B-DA8BC304FFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C9D25E-CAF1-4E62-A84B-DA8BC304FFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C9D25E-CAF1-4E62-A84B-DA8BC304FFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C9D25E-CAF1-4E62-A84B-DA8BC304FFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F627D5F9-9257-40BA-9BBC-A1DC423867EC}
+	EndGlobalSection
+EndGlobal

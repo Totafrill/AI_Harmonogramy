@@ -1,0 +1,15 @@
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\bin\Debug\net7.0\Harmonogram_Wyzarzanie.exe
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\bin\Debug\net7.0\Harmonogram_Wyzarzanie.deps.json
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\bin\Debug\net7.0\Harmonogram_Wyzarzanie.runtimeconfig.json
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\bin\Debug\net7.0\Harmonogram_Wyzarzanie.dll
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\bin\Debug\net7.0\Harmonogram_Wyzarzanie.pdb
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.csproj.AssemblyReference.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.AssemblyInfoInputs.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.AssemblyInfo.cs
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.csproj.CoreCompileInputs.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.dll
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\refint\Harmonogram_Wyzarzanie.dll
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.pdb
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\Harmonogram_Wyzarzanie.genruntimeconfig.cache
+D:\Pliki_uzytkowe\Projects\Harmonogram_Wyzarzanie\obj\Debug\net7.0\ref\Harmonogram_Wyzarzanie.dll
